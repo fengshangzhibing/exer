@@ -11,7 +11,6 @@ public class HelloServlet extends HttpServlet {
 
     public void init() {
         message = "Hello World!,Hello,Java!,Hello,Git1,hello,zwb!,hello,master!";
-        message = "Hello World!,Hello,Java!,Hello,Git1,hello,zwb!";
         info="Hello,zwb";
     }
 
